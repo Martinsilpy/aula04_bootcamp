@@ -6,5 +6,6 @@ for caractere in texto:
         frequencia[caractere] += 1
     else:
         frequencia[caractere] = 1
+        
 
 print(frequencia)
